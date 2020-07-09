@@ -1,0 +1,3 @@
+{const o=exports;
+const e=require;
+Object.defineProperty(o,"__esModule",{value:!0});var i=function(){function e(){this.items=[]}return e.prototype.enqueue=function(e){this.items.push(e)},e.prototype.dequeue=function(){return this.items.shift()},e.prototype.front=function(){return this.items[0]},e.prototype.isEmpty=function(){return 0===this.items.length},e.prototype.size=function(){return this.items.length},e}();o.default=i}

@@ -1,0 +1,3 @@
+{const o=exports;
+const e=require;
+Object.defineProperty(o,"__esModule",{value:!0});var i=function(){function e(){this.items=[]}return e.prototype.enqueue=function(e,t){var o={element:e,priority:t};if(this.isEmpty())this.items.push(o);else{for(var i=!1,n=0;n<this.items.length;n++)if(o.priority<this.items[n].priority){this.items.splice(n,0,o),i=!0;break}i||this.items.push(o)}},e.prototype.dequeue=function(){return this.items.shift().element},e.prototype.front=function(){return this.items[0].shift().element},e.prototype.isEmpty=function(){return 0===this.items.length},e}();o.default=i}

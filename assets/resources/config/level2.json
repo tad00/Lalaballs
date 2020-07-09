@@ -1,0 +1,1 @@
+{"lv":2,"height":800,"needBalls":20,"originHoles":[{"num":"10","radius":100,"x":0}],"holes":[{"num":"20","pos":{"x":134,"y":-361},"radius":120},{"num":"20","pos":{"x":-148,"y":-521},"radius":120}],"obstacles":[{"id":"4","position":{"x":257,"y":-166}}],"lines":[],"staticBalls":[],"bigBalls":[]}

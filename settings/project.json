@@ -1,0 +1,89 @@
+{
+  "group-list": [
+    "default",
+    "ball",
+    "car",
+    "obstacle",
+    "ui",
+    "game",
+    "boom"
+  ],
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "last-module-event-record-time": 1590647960560,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "205133970830643",
+    "audience": {
+      "enable": true
+    },
+    "enable": true,
+    "live": {
+      "enable": true
+    }
+  },
+  "start-scene": "33104d12-3767-4be7-9fdc-8ab10c61f7e7"
+}

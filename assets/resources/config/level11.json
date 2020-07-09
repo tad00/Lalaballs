@@ -1,0 +1,165 @@
+{
+    "lv": 11,
+    "height": 2500,
+    "needBalls": 30,
+    "originHoles": [{
+        "num": "10",
+        "radius": 80,
+        "x": -1
+    }],
+    "holes": [{
+        "num": "5",
+        "pos": {
+            "x": -210,
+            "y": -494
+        },
+        "radius": 60
+    }, {
+        "num": "5",
+        "pos": {
+            "x": -210,
+            "y": -760
+        },
+        "radius": 60
+    }, {
+        "num": "5",
+        "pos": {
+            "x": -210,
+            "y": -1020
+        },
+        "radius": 60
+    }, {
+        "num": "5",
+        "pos": {
+            "x": 210,
+            "y": -494
+        },
+        "radius": 60
+    }, {
+        "num": "0",
+        "pos": {
+            "x": 271,
+            "y": -746
+        },
+        "radius": 60
+    }, {
+        "num": "5",
+        "pos": {
+            "x": 210,
+            "y": -1023
+        },
+        "radius": 60
+    }, {
+        "num": "5",
+        "pos": {
+            "x": -210,
+            "y": -1289
+        },
+        "radius": 60
+    }, {
+        "num": "0",
+        "pos": {
+            "x": 271,
+            "y": -1277
+        },
+        "radius": 60
+    }, {
+        "num": "10",
+        "pos": {
+            "x": 178,
+            "y": -2161
+        },
+        "radius": 80
+    }, {
+        "num": "5",
+        "pos": {
+            "x": 210,
+            "y": -1591
+        },
+        "radius": 60
+    }, {
+        "num": "0",
+        "pos": {
+            "x": 271,
+            "y": -1889
+        },
+        "radius": 60
+    }],
+    "obstacles": [{
+        "id": "17",
+        "position": {
+            "x": 2,
+            "y": -2308
+        }
+    }, {
+        "checkWithBoom": true,
+        "id": "2",
+        "position": {
+            "x": 195,
+            "y": -1375
+        },
+        "width": 350
+    }, {
+        "checkWithBoom": true,
+        "id": "2",
+        "position": {
+            "x": -187,
+            "y": -1994
+        },
+        "width": 350
+    }, {
+        "checkWithBoom": true,
+        "id": "2",
+        "position": {
+            "x": 195,
+            "y": -1997
+        },
+        "width": 350
+    }, {
+        "checkWithBoom": false,
+        "id": "2",
+        "position": {
+            "x": 1,
+            "y": -1262
+        },
+        "rotation": 90,
+        "width": 1800
+    }, {
+        "checkWithBoom": true,
+        "id": "2",
+        "position": {
+            "x": 195,
+            "y": -833
+        },
+        "width": 350
+    }, {
+        "id": "9",
+        "position": {
+            "x": 270,
+            "y": -1275
+        }
+    }, {
+        "id": "9",
+        "position": {
+            "x": 271,
+            "y": -1881
+        }
+    }, {
+        "id": "9",
+        "position": {
+            "x": 270,
+            "y": -741
+        }
+    }, {
+        "id": "6",
+        "position": {
+            "x": 1,
+            "y": -275
+        },
+        "scaleX": 0.6,
+        "scaleY": 0.6
+    }],
+    "lines": [],
+    "staticBalls": [],
+    "bigBalls": []
+}
